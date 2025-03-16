@@ -1,0 +1,14 @@
+1;who taugh is liner algebra;adas;Adas;Dabrowski;Adam Dabrowski;
+1;who is hermiona granger;swat;swatollo;Swat;Sylwester Swat;
+1;eigen...;vector;value;
+1;name a Jane Austen novel;Emma;Pride and prejudice;Sense and sensibilty;Persuasions;Mansfield park;Northanger abbey;Lady susan;
+1;do u like framstick;no;nope;absolutely not;
+2;what does "loml" mean;loss of my life;love of my life;
+2;when are Taylor's Swift birthday;12/13;dec 13;Decemeber 13th;
+2;Taylor's album;Red;1989,Reputation;Folklore;Evermore;TTPD;Speak now;
+2;You're on your own, kid;Yeah, you can face this;You always have been;
+2;when was Frankstein first published;1818;1831;
+3;what is sofiyan's surname;sofiyan;???;??;?;he doesn't know himself;
+3;how to install Java;don't;oracle;little red ridding-hood;red hat;seriously don't;
+3;who is your favourite lecturer;Putra;Maligranda;
+3;When heroes of might and magic 3 was released;1999;
